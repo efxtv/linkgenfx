@@ -35,6 +35,16 @@ source myenv/bin/activate
 pip install linkgenfx
 ```
 
+## How to use
+```bash
+linkgen port
+example;
+linkgen 8022
+or
+linkgen
+# Bydefault it will forward RDP 3389
+```
+
 Please Join us on [telegram](https://t.me/LinuxClassesEFXTv) let us know if you like this project :)
 
 ## BUYME A COFFEE: [https://buymeacoffee.com/efxtv](https://buymeacoffee.com/efxtv)
